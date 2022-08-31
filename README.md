@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AdamTarrantDS
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently Studying a BSc Degree in Data Science
 - 📫 How to reach me linkedIn.com/adamtarrant
 
 <!---
